@@ -40,8 +40,9 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    background-image: radial-gradient(#0000006b 50%, #ffffff14), url('../img/37c9b93d67d8f45199e6f4a3b882264d.jpg');
+    background-image: radial-gradient(#0000006b 50%, #ffffff14), url('../img/11d8313ab18e48d15a62bb72fa026a34.jpg');
     background-size: cover;
+    background-position: bottom;
     box-shadow: -1px 1px 11px rgba(0, 0, 0, .7);
     border-radius: 7px;
     letter-spacing: 3px;
